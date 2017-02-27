@@ -9,4 +9,12 @@ Name | License | Demo
 [FloatingText](https://android-arsenal.com/details/1/3360) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/UFreedom/FloatingText/master/demo.gif" >
 [MultiSelectWidget](https://android-arsenal.com/details/1/3467) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/miteshpithadiya/MultiSelectWidget/blob/master/multiselectwidget/src/main/res/multiselectwidget.gif?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=3467" >
 
+Orther
+======================
+Name | License | Demo
+--- | --- | ---
+[Android-Link-Preview](https://github.com/LeonardoCardoso/Android-Link-Preview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/LeonardoCardoso/Android-Link-Preview/blob/master/images/VSejRyV.gif" >
+
+
+
 

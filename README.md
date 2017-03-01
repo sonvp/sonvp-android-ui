@@ -15,6 +15,15 @@ Name | License | Demo
 [PopupBubble](https://android-arsenal.com/details/1/4110) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://camo.githubusercontent.com/3f8912b907378a5227100a1c6d2868d641a826c6/687474703a2f2f7777772e77656269616e6b732e636f6d2f706f707570627562626c652f322e706e67?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=4110" width="49%"> 
 [SimpleCustomTabs](https://android-arsenal.com/details/1/2950) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/eliseomartelli/SimpleCustomTabs/master/assets/Screenshot1.jpg" width="49%"> 
 
+
+Recycler Views
+======================
+Name | License | Demo
+--- | --- | ---
+[ChipsLayoutManager](https://android-arsenal.com/details/1/4568) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/BelooS/ChipsLayoutManager/blob/master/images/demo.gif" width="49%">
+[ShimmerRecyclerView](https://android-arsenal.com/details/1/5058) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/sharish/ShimmerRecyclerView/master/screenshots/list_demo.gif" width="49%"> <img src="https://raw.githubusercontent.com/sharish/ShimmerRecyclerView/master/screenshots/grid_demo.gif" width="49%">
+
+
 Orther
 ======================
 Name | License | Demo

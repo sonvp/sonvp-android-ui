@@ -22,7 +22,7 @@ Name | License | Demo
 --- | --- | ---
 [ChipsLayoutManager](https://android-arsenal.com/details/1/4568) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/BelooS/ChipsLayoutManager/blob/master/images/demo.gif" width="49%">
 [ShimmerRecyclerView](https://android-arsenal.com/details/1/5058) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/sharish/ShimmerRecyclerView/master/screenshots/list_demo.gif" width="49%"> <img src="https://raw.githubusercontent.com/sharish/ShimmerRecyclerView/master/screenshots/grid_demo.gif" width="49%">
-
+[RecyclerViewSnap](https://github.com/rubensousa/RecyclerViewSnap/blob/master/screens/snap_googleplay.gif) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/rubensousa/RecyclerViewSnap/blob/master/screens/snap_googleplay.gif" width="49%"> <img src="https://github.com/rubensousa/RecyclerViewSnap/blob/master/screens/snap_final.gif" width="49%">
 
 Layouts
 ======================

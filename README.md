@@ -24,6 +24,13 @@ Name | License | Demo
 [ShimmerRecyclerView](https://android-arsenal.com/details/1/5058) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/sharish/ShimmerRecyclerView/master/screenshots/list_demo.gif" width="49%"> <img src="https://raw.githubusercontent.com/sharish/ShimmerRecyclerView/master/screenshots/grid_demo.gif" width="49%">
 
 
+Layouts
+======================
+Name | License | Demo
+--- | --- | ---
+[swipe-layout-android](https://github.com/rambler-digital-solutions/swipe-layout-android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/rambler-digital-solutions/swipe-layout-android/master/rambler.mail.gif" >
+[Accordion Swipe Layout](https://android-arsenal.com/details/1/4821) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://camo.githubusercontent.com/947a2ee139c3c2f814fb19fcfbfecf2aab9e6b50/687474703a2f2f692e67697068792e636f6d2f6c337652327130384c466b4e48446767382e676966?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=4821">
+
 Orther
 ======================
 Name | License | Demo

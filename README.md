@@ -27,6 +27,7 @@ Name | License | Demo
 [LazyLoadingViews](https://android-arsenal.com/details/1/5405) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/jineshfrancs/LazyLoadingViews/blob/master/screens/loading.gif?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=5405" width="49%">
 [RecyclerViewSnap](https://github.com/rubensousa/RecyclerViewSnap/blob/master/screens/snap_googleplay.gif) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/rubensousa/RecyclerViewSnap/blob/master/screens/snap_googleplay.gif" width="49%"> <img src="https://github.com/rubensousa/RecyclerViewSnap/blob/master/screens/snap_final.gif" width="49%">
 [PinnedList Android](https://github.com/Joseph82/PinnedList-Android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://camo.githubusercontent.com/f5d88bebd99eccc89168d93c8c7ba31583733729/68747470733a2f2f7777772e64726f70626f782e636f6d2f732f79753235353862626d7633747763352f746578745f64656d6f312e6769663f7261773d74727565" width="49%"> <img src="https://camo.githubusercontent.com/2bb257d1e851edcbde37313420cb7de1fccbf7af/68747470733a2f2f7777772e64726f70626f782e636f6d2f732f74376d3779643876683677346a69622f696d6167655f64656d6f312e6769663f7261773d74727565" width="49%">
+[FlexibleAdapter](https://github.com/rubensousa/RecyclerViewSnap/blob/master/screens/snap_googleplay.gif) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/rubensousa/RecyclerViewSnap/blob/master/screens/snap_googleplay.gif" width="49%"> <img src="https://github.com/rubensousa/RecyclerViewSnap/blob/master/screens/snap_final.gif" width="49%">
 
 Layouts
 ======================
@@ -43,12 +44,18 @@ Name | License | Demo
 [ShortcutBadger](https://github.com/leolin310148/ShortcutBadger) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/notification.png" width="100%" width="49%">
 [Badges](https://github.com/arturogutierrez/Badges) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/notification_3.png"> <img src="/art/notification_4.png">
 
+Views
+======================
+Name | License | Demo
+--- | --- | ---
+[StatusView](https://android-arsenal.com/details/1/5164) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/iammert/StatusView/master/art/art.gif?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=5164" width="49%">
+[EditTag](https://github.com/qiugang/EditTag) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/qiugang/EditTag/blob/master/screenshots/s01.jpg" width="49%">
+
 Orther
 ======================
 Name | License | Demo
 --- | --- | ---
 [Android-Link-Preview](https://github.com/LeonardoCardoso/Android-Link-Preview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/LeonardoCardoso/Android-Link-Preview/blob/master/images/VSejRyV.gif" width="49%">
-[StatusView](https://android-arsenal.com/details/1/5164) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/iammert/StatusView/master/art/art.gif?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=5164" width="49%">
 
 
 

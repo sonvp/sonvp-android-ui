@@ -50,6 +50,7 @@ Name | License | Demo
 --- | --- | ---
 [StatusView](https://android-arsenal.com/details/1/5164) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/iammert/StatusView/master/art/art.gif?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=5164" width="49%">
 [EditTag](https://github.com/qiugang/EditTag) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/qiugang/EditTag/blob/master/screenshots/s01.jpg" width="49%">
+[StickerView](https://github.com/wuapnjie/StickerView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/wuapnjie/StickerView/blob/master/screenshots/screenshot1.png" width="49%">  <img src="https://github.com/wuapnjie/StickerView/blob/master/screenshots/screenshot2.png" width="49%">
 
 Orther
 ======================

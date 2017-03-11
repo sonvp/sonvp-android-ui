@@ -22,6 +22,7 @@ Name | License | Demo
 --- | --- | ---
 [ChipsLayoutManager](https://android-arsenal.com/details/1/4568) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/BelooS/ChipsLayoutManager/blob/master/images/demo.gif" width="49%">
 [ShimmerRecyclerView](https://android-arsenal.com/details/1/5058) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/sharish/ShimmerRecyclerView/master/screenshots/list_demo.gif" width="49%"> <img src="https://raw.githubusercontent.com/sharish/ShimmerRecyclerView/master/screenshots/grid_demo.gif" width="49%">
+[loaderviewlibrary](https://github.com/elye/loaderviewlibrary) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://camo.githubusercontent.com/ad3e2fed505b8ae48e2a407f1e21361473605639/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6437343863335f32383338316330663131306634646336386663643334306235303366383661322537456d76322e676966" width="49%">
 [RecyclerViewSnap](https://github.com/rubensousa/RecyclerViewSnap/blob/master/screens/snap_googleplay.gif) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/rubensousa/RecyclerViewSnap/blob/master/screens/snap_googleplay.gif" width="49%"> <img src="https://github.com/rubensousa/RecyclerViewSnap/blob/master/screens/snap_final.gif" width="49%">
 
 Layouts
@@ -44,6 +45,7 @@ Orther
 Name | License | Demo
 --- | --- | ---
 [Android-Link-Preview](https://github.com/LeonardoCardoso/Android-Link-Preview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/LeonardoCardoso/Android-Link-Preview/blob/master/images/VSejRyV.gif" width="49%">
+[StatusView](https://android-arsenal.com/details/1/5164) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/iammert/StatusView/master/art/art.gif?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=5164" width="49%">
 
 
 

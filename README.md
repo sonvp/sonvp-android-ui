@@ -54,12 +54,13 @@ Name | License | Demo
 [ScratchView](https://github.com/sharish/ScratchView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/cooltechworks/ScratchView/2ec97c9a539d5976b68bf62ec07df8c727d72be2/screenshots/scratch_image_view_demo.gif" width="49%">  <img src="https://raw.githubusercontent.com/cooltechworks/ScratchView/master/screenshots/scratch_text_view_demo.gif" width="49%">
 [Android-WScratchView](https://github.com/sharish/ScratchView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/winsontan520/Android-WScratchView/master/github_screenshot.png">
 
-
 Orther
 ======================
 Name | License | Demo
 --- | --- | ---
 [Android-Link-Preview](https://github.com/LeonardoCardoso/Android-Link-Preview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/LeonardoCardoso/Android-Link-Preview/blob/master/images/VSejRyV.gif" width="49%">
+[BitmapMerger](https://github.com/sharish/BitmapMerger) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://cloud.githubusercontent.com/assets/13122232/8438305/9f7c2644-1f82-11e5-8f51-25ba7cca0711.gif"> <img src="https://cloud.githubusercontent.com/assets/13122232/8438306/9f83ee9c-1f82-11e5-8734-954a13f1b2f2.gif"> <img src="https://cloud.githubusercontent.com/assets/13122232/8438307/9f8d7c78-1f82-11e5-8d77-7fb9f31dfd6f.gif">
+
 
 
 

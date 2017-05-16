@@ -28,6 +28,7 @@ Name | License | Demo
 [RecyclerViewSnap](https://github.com/rubensousa/RecyclerViewSnap/blob/master/screens/snap_googleplay.gif) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/rubensousa/RecyclerViewSnap/blob/master/screens/snap_googleplay.gif" width="49%"> <img src="https://github.com/rubensousa/RecyclerViewSnap/blob/master/screens/snap_final.gif" width="49%">
 [PinnedList Android](https://github.com/Joseph82/PinnedList-Android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://camo.githubusercontent.com/f5d88bebd99eccc89168d93c8c7ba31583733729/68747470733a2f2f7777772e64726f70626f782e636f6d2f732f79753235353862626d7633747763352f746578745f64656d6f312e6769663f7261773d74727565" width="49%"> <img src="https://camo.githubusercontent.com/2bb257d1e851edcbde37313420cb7de1fccbf7af/68747470733a2f2f7777772e64726f70626f782e636f6d2f732f74376d3779643876683677346a69622f696d6167655f64656d6f312e6769663f7261773d74727565" width="49%">
 [FlexibleAdapter](https://github.com/rubensousa/RecyclerViewSnap/blob/master/screens/snap_googleplay.gif) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/rubensousa/RecyclerViewSnap/blob/master/screens/snap_googleplay.gif" width="49%"> <img src="https://github.com/rubensousa/RecyclerViewSnap/blob/master/screens/snap_final.gif" width="49%">
+[spruce-android](https://github.com/willowtreeapps/spruce-android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/willowtreeapps/spruce-android/blob/master/imgs/recycler-example.gif" width="49%">
 
 Layouts
 ======================
@@ -53,6 +54,7 @@ Name | License | Demo
 [StickerView](https://github.com/wuapnjie/StickerView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/wuapnjie/StickerView/blob/master/screenshots/screenshot1.png" width="49%">  <img src="https://github.com/wuapnjie/StickerView/blob/master/screenshots/screenshot2.png" width="49%">
 [ScratchView](https://github.com/sharish/ScratchView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/cooltechworks/ScratchView/2ec97c9a539d5976b68bf62ec07df8c727d72be2/screenshots/scratch_image_view_demo.gif" width="49%">  <img src="https://raw.githubusercontent.com/cooltechworks/ScratchView/master/screenshots/scratch_text_view_demo.gif" width="49%">
 [Android-WScratchView](https://github.com/sharish/ScratchView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/winsontan520/Android-WScratchView/master/github_screenshot.png">
+[MaterialChipsInput](https://github.com/pchmn/MaterialChipsInput) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/pchmn/MaterialChipsInput/blob/master/docs/demo2.gif" width="49%">
 
 Orther
 ======================
@@ -61,7 +63,19 @@ Name | License | Demo
 [Android-Link-Preview](https://github.com/LeonardoCardoso/Android-Link-Preview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/LeonardoCardoso/Android-Link-Preview/blob/master/images/VSejRyV.gif" width="49%">
 [BitmapMerger](https://github.com/sharish/BitmapMerger) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://cloud.githubusercontent.com/assets/13122232/8438305/9f7c2644-1f82-11e5-8f51-25ba7cca0711.gif"> <img src="https://cloud.githubusercontent.com/assets/13122232/8438306/9f83ee9c-1f82-11e5-8734-954a13f1b2f2.gif"> <img src="https://cloud.githubusercontent.com/assets/13122232/8438307/9f8d7c78-1f82-11e5-8d77-7fb9f31dfd6f.gif">
 
+Android Architecture
+======================
+Name | License 
+--- | --- 
+[Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
+
+Permissions
+======================
+Name | License 
+--- | --- 
+[easypermissions](https://github.com/googlesamples/easypermissions) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Dexter](https://github.com/Karumi/Dexter) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
 
 

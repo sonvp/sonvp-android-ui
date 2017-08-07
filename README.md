@@ -15,6 +15,12 @@ Name | License | Demo
 [PopupBubble](https://android-arsenal.com/details/1/4110) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://camo.githubusercontent.com/3f8912b907378a5227100a1c6d2868d641a826c6/687474703a2f2f7777772e77656269616e6b732e636f6d2f706f707570627562626c652f322e706e67?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=4110" width="49%"> 
 [SimpleCustomTabs](https://android-arsenal.com/details/1/2950) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/eliseomartelli/SimpleCustomTabs/master/assets/Screenshot1.jpg" width="49%"> 
 
+ImageView
+======================
+Name | License | Demo
+--- | --- | ---
+[PanoramaImageView](https://github.com/gjiazhe/PanoramaImageView | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/gjiazhe/PanoramaImageView/blob/master/screenshots/recyclerview_sample.gif" width="49%"> <img src="https://github.com/gjiazhe/PanoramaImageView/blob/master/screenshots/horizontal_sample.gif" width="49%"> <img src="https://github.com/gjiazhe/PanoramaImageView/blob/master/screenshots/vertical_sample.gif" width="49%">
+[MultiImageView](https://github.com/stfalcon-studio/MultiImageView | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://camo.githubusercontent.com/d29a4e2a0dc99b1a114f43fb201e1080e6aaa462/687474703a2f2f692e696d6775722e636f6d2f5334516f4b56422e676966" width="49%">
 
 Recycler Views
 ======================

@@ -19,8 +19,8 @@ ImageView
 ======================
 Name | License | Demo
 --- | --- | ---
-[PanoramaImageView](https://github.com/gjiazhe/PanoramaImageView | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/gjiazhe/PanoramaImageView/blob/master/screenshots/recyclerview_sample.gif" width="49%"> <img src="https://github.com/gjiazhe/PanoramaImageView/blob/master/screenshots/horizontal_sample.gif" width="49%"> <img src="https://github.com/gjiazhe/PanoramaImageView/blob/master/screenshots/vertical_sample.gif" width="49%">
-[MultiImageView](https://github.com/stfalcon-studio/MultiImageView | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://camo.githubusercontent.com/d29a4e2a0dc99b1a114f43fb201e1080e6aaa462/687474703a2f2f692e696d6775722e636f6d2f5334516f4b56422e676966" width="49%">
+[PanoramaImageView](https://github.com/gjiazhe/PanoramaImageView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/gjiazhe/PanoramaImageView/blob/master/screenshots/recyclerview_sample.gif" width="49%"> <img src="https://github.com/gjiazhe/PanoramaImageView/blob/master/screenshots/horizontal_sample.gif" width="49%"> <img src="https://github.com/gjiazhe/PanoramaImageView/blob/master/screenshots/vertical_sample.gif" width="49%">
+[MultiImageView](https://github.com/stfalcon-studio/MultiImageView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://camo.githubusercontent.com/d29a4e2a0dc99b1a114f43fb201e1080e6aaa462/687474703a2f2f692e696d6775722e636f6d2f5334516f4b56422e676966" width="49%">
 
 Recycler Views
 ======================

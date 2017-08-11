@@ -66,7 +66,7 @@ Name | License | Demo
 [StickerView](https://github.com/wuapnjie/StickerView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/wuapnjie/StickerView/blob/master/screenshots/screenshot1.png" width="49%">  <img src="https://github.com/wuapnjie/StickerView/blob/master/screenshots/screenshot2.png" width="49%">
 [ScratchView](https://github.com/sharish/ScratchView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/cooltechworks/ScratchView/2ec97c9a539d5976b68bf62ec07df8c727d72be2/screenshots/scratch_image_view_demo.gif" width="49%">  <img src="https://raw.githubusercontent.com/cooltechworks/ScratchView/master/screenshots/scratch_text_view_demo.gif" width="49%">
 [Android-WScratchView](https://github.com/sharish/ScratchView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/winsontan520/Android-WScratchView/master/github_screenshot.png">
-
+[shadow-layout](https://github.com/sonvp/shadow-layout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/dmytrodanylyk/shadow-layout/blob/master/screenshots/intro.png" width="49%">
 
 Orther
 ======================

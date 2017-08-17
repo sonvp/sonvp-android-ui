@@ -47,7 +47,7 @@ Name | License | Demo
 --- | --- | ---
 [swipe-layout-android](https://github.com/rambler-digital-solutions/swipe-layout-android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/rambler-digital-solutions/swipe-layout-android/master/rambler.mail.gif" >
 [Accordion Swipe Layout](https://android-arsenal.com/details/1/4821) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://camo.githubusercontent.com/947a2ee139c3c2f814fb19fcfbfecf2aab9e6b50/687474703a2f2f692e67697068792e636f6d2f6c337652327130384c466b4e48446767382e676966?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=4821">
-[SwipeRevealLayout](https://github.com/chthai64/SwipeRevealLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/chthai64/SwipeRevealLayout/master/art/demo_all.gif" width="49%">
+[SwipeRevealLayout](https://github.com/chthai64/SwipeRevealLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/chthai64/SwipeRevealLayout/master/art/demo_all.gif" width="70%">
 [LabelLayout](https://github.com/sonvp/LabelLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://cloud.githubusercontent.com/assets/22950288/21127972/0bf4a31c-c14b-11e6-9384-666fc77653c1.gif" >
 
 Notification
@@ -67,7 +67,7 @@ Name | License | Demo
 [StickerView](https://github.com/wuapnjie/StickerView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/wuapnjie/StickerView/blob/master/screenshots/screenshot1.png" width="49%">  <img src="https://github.com/wuapnjie/StickerView/blob/master/screenshots/screenshot2.png" width="49%">
 [ScratchView](https://github.com/sharish/ScratchView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/cooltechworks/ScratchView/2ec97c9a539d5976b68bf62ec07df8c727d72be2/screenshots/scratch_image_view_demo.gif" width="49%">  <img src="https://raw.githubusercontent.com/cooltechworks/ScratchView/master/screenshots/scratch_text_view_demo.gif" width="49%">
 [Android-WScratchView](https://github.com/sharish/ScratchView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/winsontan520/Android-WScratchView/master/github_screenshot.png">
-[shadow-layout](https://github.com/sonvp/shadow-layout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/dmytrodanylyk/shadow-layout/blob/master/screenshots/intro.png">
+[shadow-layout](https://github.com/sonvp/shadow-layout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/dmytrodanylyk/shadow-layout/blob/master/screenshots/intro.png" width="49%">
 [MaterialShadows](https://github.com/harjot-oberai/MaterialShadows) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/harjot-oberai/MaterialShadows/blob/master/screens/example_1.png">
 
 Orther
